@@ -1,0 +1,21 @@
+{
+  "name": "githooks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./.githooks/create-hooks.js",
+    "remove": "node ./.githooks/remove-hooks.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrpharderwijk/node-githooks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrpharderwijk/node-githooks/issues"
+  },
+  "homepage": "https://github.com/mrpharderwijk/node-githooks#readme"
+}
