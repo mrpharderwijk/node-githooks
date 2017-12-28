@@ -13,6 +13,8 @@ RED='\033[0;31m'
 GREEN='\033[0;32m'
 NC='\033[0m'
 
+echo "Starting .githooks:commit-msg"
+
 ##
 # checks the given commit message
 ##
