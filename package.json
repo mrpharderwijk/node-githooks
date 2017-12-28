@@ -1,7 +1,7 @@
 {
   "name": "githooks",
   "version": "1.0.0",
-  "description": "",
+  "description": "Creating symbolic links to custom githooks",
   "main": "index.js",
   "scripts": {
     "create": "node ./.githooks/create-hooks.js",
@@ -12,7 +12,7 @@
     "type": "git",
     "url": "git+https://github.com/mrpharderwijk/node-githooks.git"
   },
-  "author": "",
+  "author": "Marnix Harderwijk <marnix.harderwijk@rocketscience.io>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/mrpharderwijk/node-githooks/issues"
