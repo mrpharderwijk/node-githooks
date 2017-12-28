@@ -13,7 +13,7 @@ RED='\033[0;31m'
 GREEN='\033[0;32m'
 NC='\033[0m'
 
-echo "Starting .githooks:pre-push"
+echo "${GREEN}Starting:${NC} .githooks:pre-push"
 ##
 # start yarn build and check for approval on to push
 ##
